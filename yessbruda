@@ -1,0 +1,7 @@
+local allowedPlayers = {
+    "8fd02492-1681-4a18-97a6-60ac9fb8f042",
+    "dc7493c8-89d3-48e8-b3b3-bff5e1a83618",
+    "0ECCF315-9D65-466A-AD2F-9A3A09E64DB6"
+}
+
+return allowedPlayers
