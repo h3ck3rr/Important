@@ -23,7 +23,8 @@ local allowedPlayers = {
     "ffa7d5b0-812d-4802-97dd-44971883ec80",
     "354cbacd-9280-4e63-b204-519a5ae6f944",
     "14B6AE8F-C902-4149-A11D-1B9711E3CF11",
-    "74b93ffe-ec3d-4298-99db-00a3b49acba6"
+    "74b93ffe-ec3d-4298-99db-00a3b49acba6",
+    "56A62262-190F-4C49-86AA-2EAF2E6148FB"
 }
 
 return allowedPlayers
